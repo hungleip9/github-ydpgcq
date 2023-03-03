@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt-themes/docus": "^1.6.0",
+    "@nuxtjs/tailwindcss": "^6.2.0",
+    "nuxt": "3.1.0"
+  },
+  "dependencies": {
+    "@vue-final-modal/nuxt": "^1.0.0",
+    "vue-final-modal": "^4.0.9"
+  }
+}
